@@ -63,7 +63,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.AndreyWeather"
-            artifactId = "EnkodPushLibrary"
+            artifactId = "androidsdk"
             version = "1.0.0"
 
             afterEvaluate {
