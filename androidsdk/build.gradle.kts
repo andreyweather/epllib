@@ -62,7 +62,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.github.AndreyWeather"
+            groupId = "com.github.enkio"
             artifactId = "androidsdk"
             version = "1.0.0"
 
