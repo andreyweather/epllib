@@ -77,7 +77,6 @@ class TokenManualUpdateService : Service() {
 
                                             logInfo("token manual update")
 
-
                                             startVerificationTokenUsingWorkManager(
                                                 applicationContext
                                             )
